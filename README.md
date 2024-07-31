@@ -1,6 +1,8 @@
 # React + Vite
 
 To setup the code follow these steps:
+
+
 1)Fork the repo
 
 
